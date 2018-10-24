@@ -1,0 +1,6 @@
+COSMOS_CUST_IDﬁRPTING_PRDﬁCMPGN_CHNLﬁEVNT_TYPEﬁEVNT_ACTVTY_CNTﬁ
+1234560ﬁTest Data ﬁTest Campaign channelﬁTest Event Typeﬁ232ﬁ2018-09-09T17:34:40.000Z
+1234561ﬁTest Data ﬁTest Campaign channelﬁTest Event Typeﬁ232ﬁ2018-09-09T17:34:40.000Z
+1234562ﬁTest Data ﬁTest Campaign channelﬁTest Event Typeﬁ232ﬁ2018-09-09T17:34:40.000Z
+1234563ﬁTest Data ﬁTest Campaign channelﬁTest Event Typeﬁ232ﬁ2018-09-09T17:34:40.000Z
+1234564ﬁTest Data ﬁTest Campaign channelﬁTest Event Typeﬁ232ﬁ2018-09-09T17:34:40.000Z

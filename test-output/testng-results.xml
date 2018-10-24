@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32" started-at="2018-10-19T09:38:09Z" finished-at="2018-10-19T09:38:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32" started-at="2018-10-19T09:38:09Z" finished-at="2018-10-19T09:38:09Z">
+      <class name="com.pages.TestTesng1">
+        <test-method status="PASS" signature="beforeT()[pri:0, instance:com.pages.TestTesng1@1b604f19]" name="beforeT" is-config="true" duration-ms="16" started-at="2018-10-19T15:08:09Z" finished-at="2018-10-19T15:08:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeT -->
+        <test-method status="PASS" signature="second()[pri:0, instance:com.pages.TestTesng1@1b604f19]" name="second" duration-ms="0" started-at="2018-10-19T15:08:09Z" description="Second method" finished-at="2018-10-19T15:08:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method status="PASS" signature="first()[pri:0, instance:com.pages.TestTesng1@1b604f19]" name="first" duration-ms="0" started-at="2018-10-19T15:08:09Z" description="First method" finished-at="2018-10-19T15:08:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="third()[pri:0, instance:com.pages.TestTesng1@1b604f19]" name="third" duration-ms="0" started-at="2018-10-19T15:08:09Z" description="Third method" finished-at="2018-10-19T15:08:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- third -->
+        <test-method status="PASS" signature="fourth()[pri:0, instance:com.pages.TestTesng1@1b604f19]" name="fourth" duration-ms="16" started-at="2018-10-19T15:08:09Z" description="fourth method" finished-at="2018-10-19T15:08:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourth -->
+        <test-method status="PASS" signature="afterT()[pri:0, instance:com.pages.TestTesng1@1b604f19]" name="afterT" is-config="true" duration-ms="0" started-at="2018-10-19T15:08:09Z" finished-at="2018-10-19T15:08:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterT -->
+      </class> <!-- com.pages.TestTesng1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite name="Suite2" duration-ms="18" started-at="2018-10-19T09:38:09Z" finished-at="2018-10-19T09:38:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18" started-at="2018-10-19T09:38:09Z" finished-at="2018-10-19T09:38:09Z">
+      <class name="com.pages.TestTesng">
+        <test-method status="PASS" signature="beforeT()[pri:0, instance:com.pages.TestTesng@5c3bd550]" name="beforeT" is-config="true" duration-ms="0" started-at="2018-10-19T15:08:09Z" finished-at="2018-10-19T15:08:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeT -->
+        <test-method status="PASS" signature="first()[pri:0, instance:com.pages.TestTesng@5c3bd550]" name="first" duration-ms="1" started-at="2018-10-19T15:08:09Z" description="First method" finished-at="2018-10-19T15:08:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="afterT()[pri:0, instance:com.pages.TestTesng@5c3bd550]" name="afterT" is-config="true" duration-ms="0" started-at="2018-10-19T15:08:09Z" finished-at="2018-10-19T15:08:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterT -->
+        <test-method status="PASS" signature="third()[pri:0, instance:com.pages.TestTesng@5c3bd550]" name="third" duration-ms="0" started-at="2018-10-19T15:08:09Z" description="Third method" finished-at="2018-10-19T15:08:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- third -->
+        <test-method status="PASS" signature="fourth()[pri:0, instance:com.pages.TestTesng@5c3bd550]" name="fourth" duration-ms="0" started-at="2018-10-19T15:08:09Z" description="fourth method" finished-at="2018-10-19T15:08:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourth -->
+        <test-method status="PASS" signature="second()[pri:0, instance:com.pages.TestTesng@5c3bd550]" name="second" duration-ms="0" started-at="2018-10-19T15:08:09Z" description="Second method" finished-at="2018-10-19T15:08:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+      </class> <!-- com.pages.TestTesng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite2 -->
+  <suite name="All Suit" duration-ms="0" started-at="2018-10-19T09:38:10Z" finished-at="2018-10-19T09:38:10Z">
+    <groups>
+    </groups>
+  </suite> <!-- All Suit -->
+</testng-results>

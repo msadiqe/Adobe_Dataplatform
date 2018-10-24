@@ -1,0 +1,8 @@
+COSMOS_CUST_IDﬁRPTING_PRDﬁGRP_NMﬁGRP_LAST_ACTN_TYPEﬁGRP_LAST_ACTN_DTﬁGRP_VISIT_CNTﬁﬁ
+1234560ﬁTest Data Reporting peried ﬁTest Group NameﬁTest group action typeﬁ2018-09-09ﬁ11234556ﬁ2018-09-09T17:34:40.000Z
+1234561ﬁTest Data Reporting peried ﬁTest Group NameﬁTest group action typeﬁ2018-09-09ﬁ11234556ﬁ2018-09-09T17:34:40.000Z
+1234562ﬁTest Data Reporting peried ﬁTest Group NameﬁTest group action typeﬁ2018-09-09ﬁ11234556ﬁ2018-09-09T17:34:40.000Z
+1234563ﬁTest Data Reporting peried ﬁTest Group NameﬁTest group action typeﬁ2018-09-09ﬁ11234556ﬁ2018-09-09T17:34:40.000Z
+1234564ﬁTest Data Reporting peried ﬁTest Group NameﬁTest group action typeﬁ2018-09-09ﬁ11234556ﬁ2018-09-09T17:34:40.000Z
+1234565ﬁTest Data Reporting peried ﬁTest Group NameﬁTest group action typeﬁ2018-09-09ﬁ11234556ﬁ2018-09-09T17:34:40.000Z
+1234566ﬁTest Data Reporting peried ﬁTest Group NameﬁTest group action typeﬁ2018-09-09ﬁ11234556ﬁ2018-09-09T17:34:40.000Z
