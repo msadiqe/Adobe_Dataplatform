@@ -1,12 +1,10 @@
 package com.adobe.app;
 
-import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
 import com.adobe.framework.BrowserConfig;
 import com.pages.ErrorLogs;
 import com.pages.LoginPage;
-import com.pages.Workflows;
 
 public class Applicatioon extends BrowserConfig{
 	//WebDriver driver;

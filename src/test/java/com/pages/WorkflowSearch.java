@@ -1,12 +1,8 @@
 package com.pages;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.adobe.framework.BrowserConfig;
-import com.adobe.utils.PropReader;
 import com.adobe.utils.WebSelector;
 import com.webelement.Xpath;
 

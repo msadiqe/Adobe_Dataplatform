@@ -2,15 +2,10 @@ package com.sample.data;
 
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.PrintStream;
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 
 import org.testng.annotations.Test;
-
-import com.aventstack.extentreports.utils.Writer;
 
 public class SampleDataForSampleFile {
 

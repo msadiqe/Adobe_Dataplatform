@@ -1,12 +1,11 @@
 package com.adobe.utils;
 
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.util.Base64;
 import java.util.Base64.Decoder;
 import java.util.Properties;
-import java.util.Base64;
 
 import org.testng.annotations.Test;
 
